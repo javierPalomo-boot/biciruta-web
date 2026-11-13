@@ -10,3 +10,4 @@ Proyecto web de la tienda BiciRuta.
 
 ## Como abrir la web
 Abrir index.html con Live Server en VS Code.
+Proyecto BiciRuta actualizado con Git y control de versiones.
